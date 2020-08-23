@@ -8,6 +8,6 @@ Required packages: pandas, numpy, selenium(ipynb実行パス上に、chromedrive
 
 Sample.ipynbがパッケージ各関数の実行例
 
-=======================
-Sample.ipynbの例3では、観測地点マスタ（LocationMaster.csv）を用いた複数地点のデータ取得を実施
+=======================  
+Sample.ipynbの例3では、観測地点マスタ（LocationMaster.csv）を用いた複数地点のデータ取得を実施  
 LocationMaster.csvの作成に関しては、create_Proc_Block_Master.ipynb参照
